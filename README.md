@@ -1,8 +1,8 @@
 # Unity Internship Progress
 
-🍄 *  This repo contains everything for my Unity internship as part of Birzeit University Practical training course — including Unity applications and documentation for the lectures.  
+*  This repo contains everything for my Unity internship as part of Birzeit University Practical training course — including Unity applications and documentation for the lectures.  
 
-🍄 *  The training is conducted under the supervision of **Ahmad Naser**, as part of his Unity development program.
+*  The training is conducted under the supervision of **Ahmad Naser**, as part of his Unity development program.
 
 ## 📁 Folder Structure
 
