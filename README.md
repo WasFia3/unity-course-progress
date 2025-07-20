@@ -5,9 +5,11 @@
 ## 📁 Folder Structure
 
 - 📚 **Documentation**  
-  *  All lecture notes are in `Documentation/`, written in Markdown for easy reading and version control.  
-  *  Each file represents a specific lesson or topic covered during the training.
+  * Each lecture has a corresponding `.md` file inside the `Documentation/` folder.  
+  * Every file includes what I learned, what I completed, and any issues or bugs I faced — along with relevant screenshots.  
+  * All notes are written in Markdown for easy reading and version control.
+
  
-- 🎮 **Projects**  
-  *  The `Projects/` folder includes full Unity projects created during the internship.  
+- 🎮 **Applications**  
+  *  The `Applications/` folder includes all the Unity applications created at the end of every section of the course content.
   *  You can open them via Unity Hub and explore or run the scenes.
