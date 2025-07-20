@@ -28,6 +28,7 @@ I focused on these components:
 
 
 ### 🧪 Problems I Faced  
+* Low disk storage
 
 ### 🖼️ Screenshots  
 
