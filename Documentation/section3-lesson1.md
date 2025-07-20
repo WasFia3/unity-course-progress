@@ -23,12 +23,16 @@ I focused on these components:
 * polygon collider: This component defines the shape of your object for collisions — but in a very detailed, custom way. it's represented in a green square.
 * move : This component handles the movement logic of a GameObject.
 
-- 📄 Scripts 
+📄 Scripts 
 
 Scripts in Unity are components written in C# that define the behavior of GameObjects.
 
 I focused on these scripts:
 * Follow target: A script you attach to the camera (or a camera controller object) that makes it follow a specific target, usually the player, during gameplay.
+* Condition collision: condition for colliding with something ( if gameObject collid into object -> action).
+* Destroy action
+* Health System
+* Modify health system
 
 
   
