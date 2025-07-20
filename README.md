@@ -1,6 +1,6 @@
 # Unity Internship Progress
 
-🍄 This repo contains everything for my Unity internship as part of Birzeit University course — including Unity applications and documentation for the lectures.  
+🍄 This repo contains everything for my Unity internship as part of Birzeit University Practical training course — including Unity applications and documentation for the lectures.  
 
 ## 📁 Folder Structure
 
