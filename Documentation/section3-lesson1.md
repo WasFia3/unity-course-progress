@@ -29,6 +29,7 @@ I focused on these components:
 
 ### 🧪 Problems I Faced  
 * Low disk storage
+* Wasn't able to open the project provided by the instructor because it's built with an older version of Unity. 
 
 ### 🖼️ Screenshots  
 
