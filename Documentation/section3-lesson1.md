@@ -15,11 +15,20 @@
 
 Everything starts with the assests folder, it's the heart's project, that's where you place all the project's content:C# scripts, sprites, animations, prefabs, audio files, materials, and UI elements...
 
+- Cpmponents
 I learnt about the assests's components, A component in Unity is like a behavior or ability that you attach to a GameObject to make it do some action.
 
 I focused on these components:
-* Rigidbody : This gives your GameObject physics. Like, actual gravity, momentum, forces
-* polygon collider: It defines the shape of your object for collisions — but in a very detailed, custom way. it's represented in a green square.
+* Rigidbody : This component gives your GameObject physics. Like, actual gravity, momentum, forces
+* polygon collider: This component defines the shape of your object for collisions — but in a very detailed, custom way. it's represented in a green square.
+* move : This component handles the movement logic of a GameObject.
+
+- 📄 Scripts 
+
+Scripts in Unity are components written in C# that define the behavior of GameObjects.
+
+I focused on these scripts:
+* Follow target: A script you attach to the camera (or a camera controller object) that makes it follow a specific target, usually the player, during gameplay.
 
 
   
@@ -29,7 +38,10 @@ I focused on these components:
 
 ### 🧪 Problems I Faced  
 * Low disk storage
-* Wasn't able to open the project provided by the instructor because it's built with an older version of Unity. 
+* Wasn't able to open the project provided by the instructor because it's built with an older version of Unity.
+* Polygon collider didn't work due to forgetting to turn off the background (playground --> turn off background).
+* The movment of the player was way too fast, solved this issue by increasing the mass property in the Rigidbody component.
+* The player would keep falling, fixed this issue by freezing the movment on the z axis.
 
 ### 🖼️ Screenshots  
 
