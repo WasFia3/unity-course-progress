@@ -80,6 +80,10 @@ I also learned how **shaders** and **materials** work, how to **apply textures**
 📌 *Added the camera is a child of the cube, so it follows its position and rotation automatically, keeping a local offset.
 Normally, we use transform.position + offset in LateUpdate() to follow the player smoothly, but parenting removes the need for code — Unity handles it each frame. *
 
+![Camera following the cube](https://i.imgur.com/8Zi2TVP.gif)  
+📌 *Now the camera succesfully follows the cube object*
+
+
 
 
 </div>
