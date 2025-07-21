@@ -60,7 +60,7 @@ I learned the differences between local and global position and rotation, how sp
 ![Materials Applied](https://i.imgur.com/WSMpYe5.png)  
 📌 *Applied the texture to create a new Brick and Box material.*
 
-![Materials Applied To Objects](https://imgur.com/RZ5WYmP)  
+![Materials Applied To Objects](https://i.imgur.com/RZ5WYmP.png)  
 📌 *Added some cubes to the scene with a plane that represents the ground and added material to each object.*
 
 </div>
