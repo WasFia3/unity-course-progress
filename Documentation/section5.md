@@ -35,7 +35,7 @@ Button didn't show any text, or was even clickble, the solution of the problem w
 
 
 ### 🖼️ Screenshots  
-![UI Layout]([https://i.imgur.com/xYZ1234.png](https://imgur.com/a/f9JGFd1)
+![Any Description](https://i.imgur.com/xYZ1234.png)
 
 ### 📁 Files / Assets Used 
 * UI elements: Buttons, Text, Canvas, Event System.
