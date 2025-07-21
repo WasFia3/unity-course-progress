@@ -31,8 +31,11 @@
 
 ### ✍️ What I Learned
 
-I learned the differences between local and global position and rotation, how space context (self vs world) affects object transformations, and how Unity uses quaternions for smooth rotations. I also explored cameras, MonoBehaviour methods like `Awake()`, `Start()`, and update cycles. I learned about shaders and materials, how to upload textures, and how to make the camera follow the player or create FPS views.
+I learned the differences between **local** and **global** position and rotation, and how the **space context** (self vs. world) affects object transformations in Unity. I also gained an understanding of **quaternions** and how they ensure smooth rotations.
 
+Additionally, I explored **camera behavior**, **MonoBehaviour** methods like `Awake()`, `Start()`, and their roles in Unity’s update cycle. A key distinction is that `Awake()` executes even if the script is disabled, unlike `Start()`.
+
+I also learned how **shaders** and **materials** work, how to **apply textures**, and how to implement camera mechanics such as **following the player** or creating an **FPS perspective**.
 ---
 
 ### 🛠️ What I Did / Built  
