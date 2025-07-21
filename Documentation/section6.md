@@ -76,6 +76,10 @@ I also learned how **shaders** and **materials** work, how to **apply textures**
 ![Difference Between Update Methods](https://i.imgur.com/wC2pEqb.png)  
 📌 *In Unity, 'Update()' is called once per frame and is used for non-physics-related logic like player input or basic movement. 'FixedUpdate()' runs at a consistent rate (usually every 0.02 seconds) and is meant for physics calculations like applying forces, ensuring accurate and stable results. 'LateUpdate()' runs after all Update() calls in the same frame and is useful for order-dependent logic—like making the camera follow the player after the player has moved.*
 
+![Adding the camera to the cube](https://i.imgur.com/xEBISnV.png)  
+📌 *Added the camera is a child of the cube, so it follows its position and rotation automatically, keeping a local offset.
+Normally, we use transform.position + offset in LateUpdate() to follow the player smoothly, but parenting removes the need for code — Unity handles it each frame. *
+
 
 
 </div>
