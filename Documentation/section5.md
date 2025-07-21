@@ -15,12 +15,27 @@
 12. Programming Conventions, Comments, and Regions  
 13. Serialized Fields and Non-Serialized Fields  
 14. Conditional Statements and Switch  
-
+15. Loops and Their Types
+16. Arrays
+17. Instantiation and Creating GameObjects
+18. Constructors, Class Variables, and Instances
+19. Data Encapsulation
+20. Coroutines
+21. Delegates
+22. Accessing GameObject Components via Code
+23. What is Inheritance?
+24. Reverse Engineering Inheritance
+25. Inheritance: Programming & Implementation
+26. Polymorphism
 ---
 
 ### ✍️ What I Learned  
-I learned all core concepts of C# — it was easy thanks to my programming background.  
-What was new to me was learning how to build UI in Unity. I worked with Canvas, Buttons, and Text components.
+
+I found the core concepts of C# quite manageable due to my programming background.
+The new thing i learnt was learning how to implement UI elements in Unity, such as Canvas, Buttons, and Text components.
+Additionally, gained practical understanding of scripting within Unity and how it integrates with GameObjects.
+
+
 
 ---
 
