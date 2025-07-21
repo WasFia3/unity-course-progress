@@ -1,4 +1,4 @@
-<img width="925" height="183" alt="image" src="https://github.com/user-attachments/assets/4f9d1e04-b718-41a8-9987-cd3c3ffebaf6" />## Section 6: Advanced Unity Concepts
+## Section 6: Advanced Unity Concepts
 
 ### 📌 Topics Covered  
 
