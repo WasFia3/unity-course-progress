@@ -24,12 +24,13 @@ The new knowledge i got was how build UI in Unity, dealt with canvas, buttons, t
   
 ### 🛠️ What I Did / Built  
 I wrote two C# scripts.
-First script called "printConsol" was to 
+
+- First script called "printConsol" was to 
 * Print a "hello *user name*" on the consol after pressing on the greet button.
 * To print the answer of a simple math equation on the consol after clicking on the calculate button.
 * Count from 1 to 5 and print it on consol.
   
-Second Script called "increaser" was to:
+- Second Script called "increaser" was to:
 * change the text placed on the canvas value, by increasing it by 1 every time i press the button.
 
 
