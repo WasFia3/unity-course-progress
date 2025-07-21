@@ -70,6 +70,10 @@ I also learned how **shaders** and **materials** work, how to **apply textures**
 ![Awake Start When Script On](https://i.imgur.com/5rvKvfQ.png)  
 📌 *Both start and awake methods print on the consol while the scipt is on*
 
+![Awake Start When Script off](https://i.imgur.com/Un22WPh.png)  
+📌 *After turning off the script, we notice that only the awake method keeps working*
+
+
 </div>
 
 ---
