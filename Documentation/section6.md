@@ -1,4 +1,4 @@
-## Section 6: Advanced Unity Concepts
+<img width="925" height="183" alt="image" src="https://github.com/user-attachments/assets/4f9d1e04-b718-41a8-9987-cd3c3ffebaf6" />## Section 6: Advanced Unity Concepts
 
 ### 📌 Topics Covered  
 
@@ -65,6 +65,10 @@ I also learned how **shaders** and **materials** work, how to **apply textures**
 
 ![Materials Applied To Objects](https://i.imgur.com/RZ5WYmP.png)  
 📌 *Added some cubes to the scene with a plane that represents the ground and added material to each object.*
+
+
+![Awake Start When Script On](https://i.imgur.com/5rvKvfQ.png)  
+📌 *Both start and awake methods print on the consol while the scipt is on*
 
 </div>
 
