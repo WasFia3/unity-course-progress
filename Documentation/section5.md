@@ -31,7 +31,7 @@ Second Script called "increaser" was to change the text placed on the canvas val
 
 
 ### 🧪 Problems I Faced  
-Button didn't show any text, or was even clickble, the solution of the problem was to import Text mesh button (TMB) essentials.
+* Button didn't show any text, or was even clickble, the solution of the problem was to import Text mesh button (TMB) essentials.
 
 
 ### 🖼️ Screenshots  
