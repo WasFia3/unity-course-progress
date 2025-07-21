@@ -1,4 +1,4 @@
-## Section 6: Adcanced Unity Concepts
+## Section 6: Advanced Unity Concepts
 
 ### 📌 Topics Covered  
 
@@ -29,34 +29,44 @@
 
 ---
 
-### ✍️ What I Learned  
-* I learned the differences between local and global position and rotation, how space context (self vs world) affects object transformations, and how Unity uses quaternions for smooth rotations. I also explored camera setups and perspectives.
-* I learned how to upload a texture and how to create material using it.
-* I learned about MonoBehaviour, and tested the most important methods such as: awake(), starat(), update(), fixedUpdate(), lateUpdate().
-* I learned more about cameras and how to make a camera follow a target, and how make a first perspective view like in shooting games.
-* 
+### ✍️ What I Learned
+
+I learned the differences between local and global position and rotation, how space context (self vs world) affects object transformations, and how Unity uses quaternions for smooth rotations. I also explored cameras, MonoBehaviour methods like `Awake()`, `Start()`, and update cycles. I learned about shaders and materials, how to upload textures, and how to make the camera follow the player or create FPS views.
+
 ---
 
 ### 🛠️ What I Did / Built  
 
+* Created and applied materials using imported textures.  
+* Configured textures in the inspector.  
+* Built a simple FPS-style camera system.  
+* Tested MonoBehaviour methods in simple scripts.
 
 ---
 
 ### 🖼️ Screenshots  
 
-![Textures](https://i.imgur.com/kpssQdZ.png)
-📝 **Note:** Add pictures to the texture folder.
+<div align="center">
 
-![Texture settings](https://i.imgur.com/XMw0hJA.png)
-📝 **Note:** Setted the texture type to default.
+![Textures](https://i.imgur.com/kpssQdZ.png)  
+📌 *Added texture to the project under the Textures folder.*
 
-![Materials](https://i.imgur.com/vX9XqLJ.png)
-📝 **Note:** Created new materials.
+![Texture settings](https://i.imgur.com/XMw0hJA.png)  
+📌 *Changed texture type to Default for use in materials.*
 
-![Materials](https://i.imgur.com/WSMpYe5.png)
-📝 **Note:** Added the texture i previously added to this material, now we have new Brick and Box material.
+![Materials](https://i.imgur.com/vX9XqLJ.png)  
+📌 *Created new materials from the Inspector.*
 
+![Materials Applied](https://i.imgur.com/WSMpYe5.png)  
+📌 *Applied the texture to create a new Brick and Box material.*
+
+</div>
 
 ---
 
 ### 📁 Files / Assets Used  
+
+* Textures folder  
+* Materials folder  
+* Custom scripts for camera & movement  
+* Test scene for MonoBehaviour methods  
