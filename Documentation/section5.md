@@ -10,7 +10,7 @@
 7. Creating a Simple Program Using a Function
 8. Basics and Types of Variables
 9. Play Mode and putting a tint
-10. Operations on Variables
+ 10. Operations on Variables
 11. Function Types and Return Types
 12. Programming Conventions, Comments, and Regions
 13. Serialized Fields and Non-Serialized Fields
