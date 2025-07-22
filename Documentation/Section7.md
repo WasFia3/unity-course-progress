@@ -21,7 +21,7 @@ I learned about the **Audio Source** component in Unity. It allows you to play s
 
 You can also control it through code:
 
-```csharp
+
 audioSource.Play(); // Starts playing the sound  
 audioSource.Stop(); // Stops the sound  
 
@@ -36,7 +36,7 @@ audioSource.Stop(); // Stops the sound
 
 ---
 
-```markdown
+
 ### 🖼️ Screenshots  
 
 <div align="center">
