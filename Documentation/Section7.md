@@ -42,10 +42,32 @@ audioSource.Stop(); // Stops the sound
 <div align="center">
 
 ![Creating A Folder For Audio](https://i.imgur.com/PZ3UdV8.png)  
-📌 *Created a folder for audio and placed the audio I wanna use inside of it.*
+📌 *Created a folder for audio and placed the audio i wanna use inside of it.*
 
 ![Audio Source](https://i.imgur.com/YgahKoC.png)  
 📌 *Created a game object and added an audio source component to it, then added an audio clip.*
 
 ![Adding Script](https://i.imgur.com/LDtnyoS.png)  
-📌 *Added C# script to play the audio.*
+📌 *Added C# script to the camera*
+
+![Load Scene Method](https://i.imgur.com/pHV8vUb.png)  
+📌 *Wrote a method to move to the next scene*
+
+![Aplpy Load Scene Method On Button](https://i.imgur.com/ZRPNfIp.png)  
+📌 *Applied the load scene method on the button*
+
+![](https://i.imgur.com/cf2WodZ.png)  
+📌 **
+
+![Moving To Other Scene](https://i.imgur.com/ijvJE54.gif)  
+📌 *Now i can move to the other scene through the button, but the problem is the audio isn't playing in the second scene*
+
+
+</div>
+
+---
+
+## Problems I Faced
+* Audio didn't start playing in the other scene and the AudioObject didn't even appear, i went to the audio script turns out the problem was that i wrote awake() instead of Awake()
+
+### 📁 Files / Assets Used
