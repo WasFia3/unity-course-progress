@@ -2,8 +2,8 @@
 
 ### 📌 Topics Covered  
 
-1. Audio Source.
-2. Signle Tone.
+1. Audio Source  
+2. Singleton
 
 ---
 
@@ -11,64 +11,41 @@
 
 I learned about the **Audio Source** component in Unity. It allows you to play sounds in your game, like background music or sound effects.
 
-- You can attach it to any GameObject.
-- Choose an audio clip to play.
-- Control playback settings like:
-  - Looping
-  - Volume
-  - Pitch
+- You can attach it to any GameObject.  
+- Choose an audio clip to play.  
+- Control playback settings like:  
+  - Looping  
+  - Volume  
+  - Pitch  
   - Play on Awake
 
 You can also control it through code:
 
 ```csharp
-audioSource.Play(); // Starts playing the sound
-audioSource.Stop(); // Stops the sound
+audioSource.Play(); // Starts playing the sound  
+audioSource.Stop(); // Stops the sound  
 
-I also learned about the **Singleton** pattern in Unity.
-A Singleton ensures that only **one instance** of a class exists throughout the game, which is useful for things like game managers,
-audio managers, or UI controllers.
+
+🛠️ **What I Did / Built**
+
+- Created a folder for audio  
+- Created an empty GameObject and added AudioSource  
+- Wrote a script that plays the audio  
+- Applied Singleton pattern to make audio persist between scenes  
+- Connected the button to change scenes
+
 ---
 
-### 🛠️ What I Did / Built  
-
-* 
-
-
----
-
+```markdown
 ### 🖼️ Screenshots  
 
 <div align="center">
 
 ![Creating A Folder For Audio](https://i.imgur.com/PZ3UdV8.png)  
-📌 *Created a folder for audio and placed the audio i wanna use inside of it.*
+📌 *Created a folder for audio and placed the audio I wanna use inside of it.*
 
 ![Audio Source](https://i.imgur.com/YgahKoC.png)  
 📌 *Created a game object and added an audio source component to it, then added an audio clip.*
 
 ![Adding Script](https://i.imgur.com/LDtnyoS.png)  
-📌 *Added C# script to the camera*
-
-![Load Scene Method](https://i.imgur.com/pHV8vUb.png)  
-📌 *Wrote a method to move to the next scene*
-
-![Aplpy Load Scene Method On Button](https://i.imgur.com/ZRPNfIp.png)  
-📌 *Applied the load scene method on the button*
-
-![](https://i.imgur.com/cf2WodZ.png)  
-📌 **
-
-![Moving To Other Scene](https://i.imgur.com/ijvJE54.gif)  
-📌 *Now i can move to the other scene through the button, but the problem is the audio isn't playing in the second scene*
-
-
-</div>
-
----
-
-## Problems I Faced
-* Audio didn't start playing in the other scene and the AudioObject didn't even appear, i went to the audio script turns out the problem was that i wrote awake() instead of Awake()
-
-### 📁 Files / Assets Used  
-
+📌 *Added C# script to play the audio.*
