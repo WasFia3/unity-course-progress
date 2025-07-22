@@ -62,6 +62,28 @@ audioSource.Stop(); // Stops the sound
 ![Moving To Other Scene](https://i.imgur.com/ijvJE54.gif)  
 📌 *Now i can move to the other scene through the button, but the problem is the audio isn't playing in the second scene*
 
+![Creating AudioObject Adding Audio Component + C# Script To It](https://i.imgur.com/youhUhD.png)  
+📌 *Just created a gameObject called AudioObject and placed the scipt inside it instead of the camera then placed the audio copomemnt inside it too*
+
+```
+public static AudioManager _instance;
+
+    void Awake()
+    {
+        if (_instance == null)
+        {
+            DontDestroyOnLoad(gameObject);
+        }
+
+        else
+        {
+            if(this != _instance)
+            Destroy(gameObject);
+        }
+    }
+```
+![Code Effect](https://i.imgur.com/EOEDD1i.png)  
+📌 *Now with this code, the audio moves with me to the next scene and it doesn't start from the begining.*
 
 </div>
 
