@@ -82,6 +82,10 @@ public static AudioManager _instance;
 ![Code Effect](https://i.imgur.com/EOEDD1i.png)  
 📌 *Now with this code, the audio moves with me to the next scene and it doesn't start from the begining.*
 
+![After Adding methods](https://i.imgur.com/TDHm6Lj.png)  
+📌 *Final program after adding audio methods*
+
+
 </div>
 
 ---
