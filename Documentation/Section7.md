@@ -4,6 +4,7 @@
 
 1. Audio Source  
 2. Singleton
+3. Controling Audio Methods
 
 ---
 
@@ -28,11 +29,7 @@ audioSource.Stop(); // Stops the sound
 
 🛠️ **What I Did / Built**
 
-- Created a folder for audio  
-- Created an empty GameObject and added AudioSource  
-- Wrote a script that plays the audio  
-- Applied Singleton pattern to make audio persist between scenes  
-- Connected the button to change scenes
+- Simple App that plays and mutes the audio, and can switch to other scene without cutting off the audio.
 
 ---
 
