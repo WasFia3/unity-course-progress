@@ -11,7 +11,7 @@
 * We call the folder that contains the images in the game "Sprites". 
 * I learned about responsive component, to take the full screen change Xscalefrac to .2 Yscalefrac to .3.
 * sprite renderer component
-* responsive component
+
 
 
 
