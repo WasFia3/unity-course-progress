@@ -20,9 +20,6 @@
 
 <div align="center">
 
-![Textures](https://i.imgur.com/kpssQdZ.png)  
-📌 *Added texture to the project under the Textures folder.*
-
 
 
 </div>
