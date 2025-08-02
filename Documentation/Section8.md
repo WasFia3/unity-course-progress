@@ -40,6 +40,13 @@
 ![Anchors](https://i.imgur.com/x78btNK.png)  
 📌 *Anchors for button*
 
+![Multiple Sprite](https://i.imgur.com/zJZVNIR.png)  
+📌 *Multiple sprite mode*
+
+![Multiple Sprite](https://i.imgur.com/cJD0x6Q.png)  
+📌 *Multiple sprite edit*
+
+
 
 </div>
 
