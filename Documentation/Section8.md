@@ -47,6 +47,15 @@
 📌 *Multiple sprite edit*
 
 
+![Vertical layout group](https://i.imgur.com/YPCdXBK.png)  
+📌 *Vertical layout group component applied on menu to group the buttons inside the menu*
+
+![Menu children](https://i.imgur.com/SsGxFT3.png)  
+📌 *Buttons inside the menu*
+
+![Final](https://i.imgur.com/JweY6HH.png)  
+📌 *Final layout*
+
 
 </div>
 
