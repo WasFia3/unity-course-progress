@@ -67,6 +67,10 @@
 ![Mask rect](https://i.imgur.com/kwyAGOC.png)  
 📌 *Added mask to the menu*
 
+![Result after mask](https://i.imgur.com/QYOP7LS.gif)  
+📌 *Final result after adding the mask*
+
+
 
 </div>
 
