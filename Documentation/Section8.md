@@ -20,6 +20,8 @@
 * We usually resize the width and height to change the UI object size, so it stays responsive. we do not use scale for that.
 * Anchors are reference points that control how UI elements behave when the screen size or resolution changes. They’re part of the RectTransform component used in UI.
 * Sprite sheet is a single image file that contains multiple smaller images (sprites), usually used for animations or game objects.
+* Scroll Rect component
+* Rect 2D Mask component
 
 
 
