@@ -8,6 +8,7 @@
 5. Dealing with menus
 6. Vertical slider.
 7. Slider mask
+8. Menu buttons / opening and closing the menu
 
 
 ---
