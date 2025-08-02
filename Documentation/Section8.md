@@ -64,6 +64,10 @@
 ![Scrol Rect](https://i.imgur.com/MbNIl8H.gif)  
 📌 *The final result after adding the scroll rect component*
 
+![Mask rect](https://i.imgur.com/kwyAGOC.png)  
+📌 *Added mask to the menu*
+
+
 </div>
 
 ---
@@ -78,3 +82,7 @@
 📌 *Events Class.*
 
 * Responsive attrubites won't appear, restarted unity and it worked.
+* When implementing a vertical/horizontal scroll view using Unity’s Scroll Rect component, the scroll content moves correctly during drag, but once the mouse/finger is released, the content immediately snaps back to its original position instead of staying at the new scroll offset.
+
+  ![Slide problem](https://i.imgur.com/IScBTsL.png)  
+📌 * I fixed this problem by changing the movment type from "Elastic" to "Unrestricted".*
