@@ -7,7 +7,7 @@
 4. Dealing with responsive images / buttons / pannels / texts
 5. Dealing with menus
 6. Vertical slider.
-7. 
+7. Slider mask
 
 
 ---
