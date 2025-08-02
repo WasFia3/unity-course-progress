@@ -5,7 +5,9 @@
 2. Canvas/ rect transform/ center point/ pivot
 3. Anchors and best fit
 4. Dealing with responsive images / buttons / pannels / texts
-5. Dealing with menus 
+5. Dealing with menus
+6. Vertical slider.
+7. 
 
 
 ---
@@ -56,6 +58,11 @@
 ![Final](https://i.imgur.com/JweY6HH.png)  
 📌 *Final layout*
 
+![Scrol Rect](https://i.imgur.com/zPEuVnM.png)  
+📌 *Created an empty game object and placed the menu inside it as a child, then added this component to it to make the menu slide vertically*
+
+![Scrol Rect](https://i.imgur.com/MbNIl8H.gif)  
+📌 *The final result after adding the scroll rect component*
 
 </div>
 
