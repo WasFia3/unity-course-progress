@@ -9,6 +9,7 @@
 6. Vertical slider.
 7. Slider mask
 8. Menu buttons / opening and closing the menu
+9. Animation 
 
 
 ---
@@ -23,6 +24,7 @@
 * Sprite sheet is a single image file that contains multiple smaller images (sprites), usually used for animations or game objects.
 * Scroll Rect component
 * Rect 2D Mask component
+* Animator component
 
 
 
