@@ -75,6 +75,13 @@
 ![Result after mask](https://i.imgur.com/QYOP7LS.gif)  
 📌 *Final result after adding the mask*
 
+![Animation controller](https://i.imgur.com/HDZw9Yg.png)  
+📌 *Now gonna start with the animation to close and open the menu, first we create an animation controller*
+
+![Animation controller](https://i.imgur.com/uPS8tvO.png)  
+📌 *Result after creating the animation controller*
+
+
 
 
 </div>
