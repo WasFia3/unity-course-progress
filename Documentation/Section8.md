@@ -11,7 +11,8 @@
 8. Menu buttons / opening and closing the menu.
 9. Animation.
 10. Coding movement pattrens / shading the screen / overlay.
-11. 
+11. Standard event listener especially with buttons.
+12. Custom event handling.
 
 ---
 
@@ -27,7 +28,7 @@
 * Rect 2D Mask component
 * Animator component
 * overlay should be before the menu
-
+* The Input Handler checks if any sprite has been clicked
 
 
 ---
