@@ -7,10 +7,11 @@
 4. Dealing with responsive images / buttons / pannels / texts
 5. Dealing with menus
 6. Vertical slider.
-7. Slider mask
-8. Menu buttons / opening and closing the menu
-9. Animation 
-
+7. Slider mask.
+8. Menu buttons / opening and closing the menu.
+9. Animation.
+10. Coding movement pattrens / shading the screen / overlay.
+11. 
 
 ---
 
@@ -25,6 +26,7 @@
 * Scroll Rect component
 * Rect 2D Mask component
 * Animator component
+* overlay should be before the menu
 
 
 
@@ -87,6 +89,15 @@
 ![Animation](https://i.imgur.com/TEmf8Lg.gif)  
 📌 *Animation of the slide*
 
+![Code to open and exit menu](https://i.imgur.com/1DUo9kV.png)  
+📌 *The code for closing and opening the menu*
+
+![final result](https://i.imgur.com/11EDtyq.gif)  
+📌 *The result of the code*
+
+![final result](https://i.imgur.com/t031deq.gif)  
+📌 *The result after adding the overlay*
+
 
 
 </div>
@@ -107,3 +118,17 @@
 
   ![Slide problem](https://i.imgur.com/IScBTsL.png)  
 📌 * I fixed this problem by changing the movment type from "Elastic" to "Unrestricted".*
+
+* UI Buttons Not Clickable Behind Overlay
+Problem: Buttons under the overlay stopped working because the overlay's Image blocks raycasts.
+
+![overLay problem](https://i.imgur.com/uav9x7C.png)  
+📌 * I fixed this problem by disabling Raycast Target on the overlay’s Image component to let clicks pass through.
+
+
+*The menu appears open at the start, so clicking the "Open Menu" button causes unexpected behavior.
+
+![menu logic fix](https://i.imgur.com/4maG2cM.png)  
+📌 * Disable the menu and overlay in Start():
+
+
