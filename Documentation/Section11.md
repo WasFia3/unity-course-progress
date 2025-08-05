@@ -24,6 +24,9 @@
 
 <div align="center">
 
+  ![Animation](https://i.imgur.com/PaI7Wm6.gif)  
+📌 *Added sprite to the scene then animated it simple blinking animation*
+
 
 
 </div>
@@ -35,4 +38,9 @@
 * Textures folder  
 * Materials folder  
 * Custom scripts for camera & movement  
-* Test scene for MonoBehaviour methods  
+* Test scene for MonoBehaviour methods
+
+---
+
+### 🧪 Problems I Faced  
+* The sprite wasn't appearing on camera, turns out Z axis was -10 for that sprite, changed it to 0 and it started appearing on camera.
