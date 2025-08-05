@@ -14,6 +14,7 @@
 11. Standard event listener especially with buttons.
 12. Custom event handling.
 
+
 ---
 
 ### ✍️ What I Learned
@@ -28,6 +29,7 @@
 * Rect 2D Mask component
 * Animator component
 * overlay should be before the menu
+* ennts and input handler components
 * The Input Handler checks if any sprite has been clicked
 
 
