@@ -47,6 +47,10 @@ Layers are used for:
   - *Rigidbody2D, so the player is affected by gravity*  
   - *Box Collider 2D, for collision detection*
 
+  ![tags and layers](https://i.imgur.com/G7B4ocf.png)  
+  📌 - *Created a tag for the coin to identify it in code when the player touches it.*
+   - *Created a layer for the ground so physics checks (like grounded detection) only interact with ground objects.*
+
 </div>
 
 ---
