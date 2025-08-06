@@ -14,7 +14,19 @@
 * If working with a mobile devide app, change the sprites format to TrueColor to avoid getting pixeled pixtures.
 * Sprite Renderer component
 * We can place the background behind the object by switching to 3D mode and moving the background backwards along the Z-axis.
+  ---
+* 🏷️ Tags in unity:
+*Tags are labels you assign to GameObjects.
+*Used to identify objects in code.
 
+🧅 Layers:
+Layers are used for:
+
+*Collision filtering (with Layer Collision Matrix)
+*Camera culling (what each camera sees)
+*Raycasts (to hit only specific layers)
+
+--- 
 ### 🛠️ What I Did / Built  
 
 
@@ -26,6 +38,10 @@
 
   ![Animation](https://i.imgur.com/PaI7Wm6.gif)  
 📌 *Added sprite to the scene then animated it simple blinking animation*
+
+  ![Adding collider + rigibody](https://i.imgur.com/49wK3Rs.png)  
+📌 *Added two components to the player, first one is rigibody 2D, so the player becomes effected by the gravity.*
+    * Secind compenent is box collider 2D, for the collisions.*
 
 
 
