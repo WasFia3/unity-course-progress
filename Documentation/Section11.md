@@ -56,7 +56,7 @@ Layers are used for:
 📌 *Created a tag for the coin to identify it in code when the player touches it.*  
 *Created a layer for the ground so physics checks (like grounded detection) only interact with ground objects.*
 
-![Is triggered for coin](https://i.imgur.com/PaI7Wm6.gif)  
+![Is triggered for coin](https://i.imgur.com/YJ81LUO.png)  
 📌 *Enabled "Is Trigger" on the coin so the player can pass through it and still detect the collision to collect it.*
 
 ![Result 1](https://i.imgur.com/0wIBDz4.gif)  
