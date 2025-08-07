@@ -63,31 +63,42 @@ Layers are used for:
 📌 *Final result after managing collisions, gravity, and enabling "Is Trigger" on the coin.*
 
 ![Result 2](https://i.imgur.com/0wIBDz4.gif)  
-📌 *Final result after adding the score variable to display the player's coin count. Now, when the player touches a coin in the game, the coin count increases and the updated score is shown on the screen using the TextMesh. *
+📌 *Final result after adding the score variable to display the player's coin count. Now, when the player touches a coin in the game, the coin count increases and the updated score is shown on the screen using the TextMesh.*
 
 ![World object](https://i.imgur.com/6Tq2zsV.png)  
-📌 *Created world object that contains the ground objects and coins, so i can animate the wrold later *
+📌 *Created a world object that contains the ground objects and coins, so I can animate the world later.*
 
 ![DeadZone](https://i.imgur.com/9271WYM.gif)  
-📌 *Result after animating the world and adding a deadzone *
+📌 *Result after animating the world and adding a deadzone.*
 
 ![Jumping parameters](https://i.imgur.com/CiTIClv.png)  
-📌 *Will animate the jumping, so here we created some triggers that will help us track the jumping process *
+📌 *Created triggers in the Animator to help track the jumping process.*
 
 ![Transactions](https://i.imgur.com/IkaBjd6.png)  
-📌 *The Animator shows two states: `PlayerAnimation` (idle/move) and `JumpAnimation`. When the `jumped` bool is true, it transitions from `PlayerAnimation` to `JumpAnimation`, after finishing the current animation.*
- *
+📌 *The Animator shows two states: `PlayerAnimation` (idle/move) and `JumpAnimation`. When the `jumped` trigger is activated, it transitions from `PlayerAnimation` to `JumpAnimation`.*
 
+![Jumping result](https://i.imgur.com/ofpAEcv.gif)  
+📌 *Player jump animation with delay before landing, triggered using grounded check and upward force.*
 
 </div>
 
 ---
 
 ### 📁 Files / Assets Used  
-- `Textures` folder  
-- `Materials` folder  
-- Custom scripts for camera & movement  
-- Test scene for MonoBehaviour methods  
+- **Sprites:**
+  - Player sprite sheet (idle, blink, jump frames)  
+  - Coin sprite  
+  - Ground tile sprite  
+  - Background sprite  
+
+- **Audio:**
+  - `Jump.wav` — jump sound effect  
+  - `Coin.wav` — coin collection sound effect  
+  - `Win.wav` — win sound effect  
+
+- **Scripts:**
+  - `controllerPlayer.cs` — handles player movement, jumping, collisions, and score  
+  - Scene setup files (`Section11.unity`)
 
 ---
 
