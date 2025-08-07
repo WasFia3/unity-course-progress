@@ -62,6 +62,18 @@ Layers are used for:
 ![Result 1](https://i.imgur.com/0wIBDz4.gif)  
 📌 *Final result after managing collisions, gravity, and enabling "Is Trigger" on the coin.*
 
+![Result 2](https://i.imgur.com/0wIBDz4.gif)  
+📌 *Final result after adding the score variable to display the player's coin count. Now, when the player touches a coin in the game, the coin count increases and the updated score is shown on the screen using the TextMesh. *
+
+![World object](https://i.imgur.com/6Tq2zsV.png)  
+📌 *Created world object that contains the ground objects and coins, so i can animate the wrold later *
+
+![DeadZone](https://i.imgur.com/9271WYM.gif)  
+📌 *Result after animating the world and adding a deadzone *
+
+
+
+
 </div>
 
 ---
