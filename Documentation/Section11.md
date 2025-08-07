@@ -36,7 +36,7 @@ Layers are used for:
 ---
 
 ### 🛠️ What I Did / Built  
-*Added animated sprites, implemented movement, collisions, gravity, and began organizing object layers and tags.*
+*Simple collecting coins game. Added animated sprites, implemented movement, collisions, gravity, and began organizing object layers and tags.*
 
 ---
 
