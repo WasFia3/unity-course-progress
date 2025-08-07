@@ -71,7 +71,12 @@ Layers are used for:
 ![DeadZone](https://i.imgur.com/9271WYM.gif)  
 📌 *Result after animating the world and adding a deadzone *
 
+![Jumping parameters](https://i.imgur.com/CiTIClv.png)  
+📌 *Will animate the jumping, so here we created some triggers that will help us track the jumping process *
 
+![Transactions](https://i.imgur.com/IkaBjd6.png)  
+📌 *The Animator shows two states: `PlayerAnimation` (idle/move) and `JumpAnimation`. When the `jumped` bool is true, it transitions from `PlayerAnimation` to `JumpAnimation`, after finishing the current animation.*
+ *
 
 
 </div>
